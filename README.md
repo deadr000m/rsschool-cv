@@ -1,1 +1,1 @@
-# rsschool-cv
+https://deadr000m.github.io/rsschool-cv/cv
