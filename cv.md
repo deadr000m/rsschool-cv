@@ -10,7 +10,7 @@
 
 
 # About myself
-- I'm 31 years old. I worked for few years in IT sphere as a system administrator. I'm very interested to get soft developer specialization, cause I like algorithm tasks and creating something new. I can describe myself as a purposeful and a hardworking person.
+- I'm 31 years old. I worked for few years in IT sphere as a system administrator. I'm very interested to get soft developer specialization, cause I like algorithm tasks and creating something new. I can describe myself agit s a purposeful and a hardworking person.
 
 
 # Skills
@@ -22,7 +22,7 @@
 
 # Code Example
 ```JavaScript
-/*Write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer. If the array does not contain any numbers then you should return 0.*/
+/*Task: write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer. If the array does not contain any numbers then you should return 0.*/
 function sum (numbers) {
     "use strict";
     if(numbers.lenght==0) return 0;
