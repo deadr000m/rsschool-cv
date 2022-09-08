@@ -1,1 +1,1 @@
-https://deadr000m.github.io/rsschool-cv/cv
+https:///deadr000m.github.io/rsschool-cv/
